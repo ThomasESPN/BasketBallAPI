@@ -1,0 +1,12 @@
+[
+	{"nom": "LeBron", "prenom": "James", "equipe": "Los Angeles Lakers", "pays": "États-Unis", "matchs_joues": 1300, "points": 34914, "rebonds": 9881},
+	{"nom": "Kobe", "prenom": "Bryant", "equipe": "Los Angeles Lakers", "pays": "États-Unis", "matchs_joues": 1346, "points": 33643, "rebonds": 7047},
+	{"nom": "Michael", "prenom": "Jordan", "equipe": "Chicago Bulls", "pays": "États-Unis", "matchs_joues": 1072, "points": 32292, "rebonds": 6672},
+	{"nom": "Kareem", "prenom": "Abdul-Jabbar", "equipe": "Los Angeles Lakers", "pays": "États-Unis", "matchs_joues": 1560, "points": 38387, "rebonds": 17440},
+	{"nom": "Wilt", "prenom": "Chamberlain", "equipe": "Los Angeles Lakers", "pays": "États-Unis", "matchs_joues": 1045, "points": 31419, "rebonds": 23924},
+	{"nom": "Tim", "prenom": "Duncan", "equipe": "San Antonio Spurs", "pays": "États-Unis", "matchs_joues": 1392, "points": 26496, "rebonds": 15091},
+	{"nom": "Dirk", "prenom": "Nowitzki", "equipe": "Dallas Mavericks", "pays": "Allemagne", "matchs_joues": 1522, "points": 31560, "rebonds": 11878},
+	{"nom": "Shaquille", "prenom": "O'Neal", "equipe": "Los Angeles Lakers", "pays": "États-Unis", "matchs_joues": 1207, "points": 28596, "rebonds": 13099},
+	{"nom": "Kevin", "prenom": "Durant", "equipe": "Brooklyn Nets", "pays": "États-Unis", "matchs_joues": 937, "points": 24144, "rebonds": 6896},
+	{"nom": "Steph", "prenom": "Curry", "equipe": "Golden State Warriors", "pays": "États-Unis", "matchs_joues": 762, "points": 17392, "rebonds": 3584}
+]
